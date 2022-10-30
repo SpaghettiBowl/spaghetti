@@ -1,6 +1,5 @@
-# Spaghetti code
+# Spaghetti <🍝 />
 A repository collecting spaghetti code (all languages welcome)
-![spaghetti](https://i.imgur.com/cO6IqFu.jpg)
 
 # What is spaghetti code
 In the context of this organization, spaghetti code is code that performs basic tasks in an extremely overengineered and unreadable way.
